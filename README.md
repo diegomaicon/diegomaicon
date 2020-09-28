@@ -4,7 +4,7 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegomaicon&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegomaicon&show_icons=true&theme=graywhite)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomaicon&layout=compact)](https://github.com/diegomaicon/github-readme-stats)
